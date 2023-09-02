@@ -1,16 +1,16 @@
-// {
-//   "files.exclude": {
-//     "**/.git": true,
-//     "**/.svn": true,
-//     "**/.hg": true,
-//     "**/CVS": true,
-//     "**/.DS_Store": true,
-//     "**/Thumbs.db": true,
-//     "dist": true,
-//     "nodemon.json": true,
-//     "package-lock.json": true,
-//     "tsconfig.json": true,
-//     "README.md": true,
-//     "node_modules": true
-//   }
-// }
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "dist": true,
+    "nodemon.json": true,
+    "package-lock.json": true,
+    "tsconfig.json": true,
+    "README.md": true,
+    "node_modules": true
+  }
+}

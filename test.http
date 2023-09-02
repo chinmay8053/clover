@@ -1,5 +1,13 @@
 @baseUrl = http://localhost:3001
 
 // create todo item
-GET {{baseUrl}}/request
+POST  {{baseUrl}}/ HTTP/1.1
 content-type: application/json
+
+{
+    "test":"test101",
+    "te":"sd"
+}
+
+
+
