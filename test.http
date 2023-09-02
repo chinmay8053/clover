@@ -1,0 +1,5 @@
+@baseUrl = http://localhost:3001
+
+// create todo item
+GET {{baseUrl}}/request
+content-type: application/json
